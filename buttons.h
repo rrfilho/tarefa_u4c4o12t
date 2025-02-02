@@ -1,5 +1,4 @@
 #include "pico/stdlib.h"
-#include "hardware/timer.h"
 
 const uint LEFT_BUTTON = 5;
 const uint RIGHT_BUTTON = 6;
